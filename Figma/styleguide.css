@@ -1,0 +1,80 @@
+:root { 
+  --black: #000000;
+  --deep-cerulean: #0077a7;
+  --mist-gray: #c4c4c4;
+  --shiraz: #ac042b;
+  --white: #ffffff;
+ 
+  --font-size-l: 30px;
+  --font-size-m: 24px;
+  --font-size-s: 18px;
+  --font-size-xl: 32px;
+  --font-size-xxl: 36px;
+  --font-size-xxxl: 48px;
+  --font-size-xxxxl: 64px;
+ 
+  --font-family-black_han_sans: "Black Han Sans", Helvetica;
+}
+.blackhansans-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-black_han_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.blackhansans-normal-shiraz-24px {
+  color: var(--shiraz);
+  font-family: var(--font-family-black_han_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.blackhansans-normal-shiraz-36px {
+  color: var(--shiraz);
+  font-family: var(--font-family-black_han_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.blackhansans-normal-shiraz-18px {
+  color: var(--shiraz);
+  font-family: var(--font-family-black_han_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.blackhansans-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-black_han_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.blackhansans-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-black_han_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.blackhansans-normal-shiraz-64px {
+  color: var(--shiraz);
+  font-family: var(--font-family-black_han_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.blackhansans-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-black_han_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
